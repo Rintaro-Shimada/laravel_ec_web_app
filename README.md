@@ -1,9 +1,9 @@
-# laravel_php_template
-laravel docker 開発環境のテンプレート  
+# Laravel EC Web App
+
 ##  バージョン情報
 ~~~
-nginx:1.19.9
-PHP 8.0
+nginx:1.21.4
+PHP 8.1
 mysql 8.0
 node.js 16.x
 ~~~
